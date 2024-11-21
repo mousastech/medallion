@@ -14,6 +14,7 @@ and Unity Catalog
 - External location mapped 
 - Serverless Interactive cluster / Interactive Cluster 
 
+<br>
 
 <br><br>
 
